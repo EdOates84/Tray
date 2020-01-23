@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153762452175",
+    "firebase_url": "https://tray-6322b.firebaseio.com",
+    "project_id": "tray-6322b",
+    "storage_bucket": "tray-6322b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153762452175:android:4c90a6ad1ca0fe6bde9dba",
+        "android_client_info": {
+          "package_name": "com.example.android.tray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153762452175-u8373pt0s3ptruelb4su6auq54nuop5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6SwGIey3QZUax57XmMofJLeMx-lKWUQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153762452175-u8373pt0s3ptruelb4su6auq54nuop5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
