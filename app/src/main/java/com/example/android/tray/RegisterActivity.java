@@ -66,7 +66,7 @@ public class RegisterActivity extends AppCompatActivity {
                                     if (task.isSuccessful()) {
 
                                         Toast.makeText(RegisterActivity.this, "User Created", Toast.LENGTH_SHORT).show();
-                                        startActivity(new Intent(getApplicationContext(),Login1Activity.class));
+                                        startActivity(new Intent(getApplicationContext(),MainActivity.class));
                                     }
                                 }
                             });
